@@ -1,1 +1,3 @@
 # puManager
+
+init
